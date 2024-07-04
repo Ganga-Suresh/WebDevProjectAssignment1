@@ -1,0 +1,17 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container{
+    display: flex;
+    flex-direction: row wrap;
+    gap: 10px;
+    margin: 10px;
+    min-width: 400px;
+    max-width: 400px;
+}
+
+.display{
+    border: solid black;
+    padding: 10px;
+}
